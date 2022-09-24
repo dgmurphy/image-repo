@@ -78,3 +78,9 @@ node.mef {
   defaultCaption: "<id>";
   caption: "{name}";
 }
+relationship.max_avg {
+  color: #604A0E;
+  border-color: #423204;
+  text-color-internal: #FFFFFF;
+  shaft-width: 5px;
+}
